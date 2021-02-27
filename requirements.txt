@@ -4,3 +4,4 @@ lolcat
 colorama
 netifaces
 randmac
+pyarmor
